@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab2_Boyarschonok/1.0.0": {
+        "runtime": {
+          "Lab2_Boyarschonok.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab2_Boyarschonok/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

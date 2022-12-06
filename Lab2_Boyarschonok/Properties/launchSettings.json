@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Lab2_Boyarschonok": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

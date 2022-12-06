@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\obj\Debug\net6.0\Lab2_Boyarschonok.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\obj\Debug\net6.0\Lab2_Boyarschonok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\obj\Debug\net6.0\Lab2_Boyarschonok.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\obj\Debug\net6.0\Lab2_Boyarschonok.AssemblyInfo.cs
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\obj\Debug\net6.0\Lab2_Boyarschonok.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\bin\Debug\net6.0\Lab2_Boyarschonok.exe
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\bin\Debug\net6.0\Lab2_Boyarschonok.deps.json
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\bin\Debug\net6.0\Lab2_Boyarschonok.runtimeconfig.json
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\bin\Debug\net6.0\Lab2_Boyarschonok.dll
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\bin\Debug\net6.0\Lab2_Boyarschonok.pdb
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\obj\Debug\net6.0\Lab2_Boyarschonok.dll
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\obj\Debug\net6.0\refint\Lab2_Boyarschonok.dll
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\obj\Debug\net6.0\Lab2_Boyarschonok.pdb
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\obj\Debug\net6.0\Lab2_Boyarschonok.genruntimeconfig.cache
+C:\Users\user\source\repos\Lab2_Boyarschonok\Lab2_Boyarschonok\obj\Debug\net6.0\ref\Lab2_Boyarschonok.dll
